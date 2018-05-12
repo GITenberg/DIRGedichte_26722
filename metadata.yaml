@@ -1,0 +1,35 @@
+_repo: DIRGedichte_26722
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vogeler, Heinrich
+    aliases:
+    - Vogeler, Johann Heinrich
+    - Vogeler-Worpswede, Heinrich
+    birthdate: 1872
+    deathdate: 1942
+    gutenberg_agent_id: '32203'
+    url: http://www.gutenberg.org/2009/agents/32203
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Heinrich_Vogeler
+    - http://en.wikipedia.org/wiki/Heinrich_Vogeler
+description: ''
+gutenberg_bookshelf: DE Lyrik
+gutenberg_issued: '2008-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26722'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PT'
+title: 'DIR
+
+  Gedichte'
+url: http://www.gutenberg.org/ebooks/26722
